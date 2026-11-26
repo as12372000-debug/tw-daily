@@ -1,0 +1,49 @@
+{
+  "watchlist": [
+    "2330",
+    "2317",
+    "2454",
+    "2308",
+    "0050"
+  ],
+  "page_url": "",
+  "screens": {
+    "avg_days": 20,
+    "vol_mult": 2.0,
+    "min_up_pct": 3.0,
+    "min_value_e8": 1.0,
+    "streak_days": 3,
+    "min_streak_lots": 1000,
+    "max_rows": 15
+  },
+  "us": {
+    "indices": {
+      "^GSPC": "S&P 500",
+      "^IXIC": "那斯達克",
+      "^DJI": "道瓊",
+      "^SOX": "費城半導體",
+      "^VIX": "VIX 恐慌指數"
+    },
+    "watchlist": [
+      "NVDA",
+      "AAPL",
+      "AMD",
+      "MSFT",
+      "AVGO"
+    ],
+    "fx": "TWD=X"
+  },
+  "paper": {
+    "start_cash": 100000,
+    "risk_pct": 2,
+    "stop_pct": 8,
+    "tp_pct": 20,
+    "max_positions": 4,
+    "min_value_e8": 1.0,
+    "pause_after_losses": 3,
+    "pause_days": 20,
+    "fee_pct": 0.1425,
+    "fee_min": 20,
+    "tax_pct": 0.3
+  }
+}
